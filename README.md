@@ -159,6 +159,14 @@ NewsPicksのレコメンドエンジンのバックエンドの開発を行な�
 ### イクチオカップ（ハックツ）
 
 WebRTCを用いた配信基盤と表示用のWebアプリケーションを作成しました。
+この作品で優勝しました。
 
 - [公式サイト](https://cup.hackz.team/ichthyo)
 - [成果概要](https://topaz.dev/projects/50a804868af6407eb504）
+
+### ？？？カップ（ハックツ）
+
+クリスマスツリーを光らせました。人生で初めてReactを触った作品です。
+初参加初優勝の作品です。
+
+- [成果概要]([https://topaz.dev/projects/50a804868af6407eb504](https://topaz.dev/projects/c00sudq23akg008ogemg)）
