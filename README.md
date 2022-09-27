@@ -15,11 +15,22 @@
 - デザインセンスがないのでデザイナーとの協業がベター
 - Reactが大好き
 
+[技術スタック]
+
+- TypeScript,JavaScript
+- React,Next.js,Nuxt.js
+- Bootstrap
+
 **バックエンド**
 
 - レガシー改善からモダンな設計まで一通りは学びました（作れるとは言っていない）
 - Goが大好きですが、Kotlinも触れます。RustはTwitterクローラが作れる程度の知識しかありません。
 - Pythonは嫌いですが仕方なく使っています
+
+[技術スタック]
+
+- Go,PHP,TypeScript,Python,C++,Rust
+- Laravel,Express,Rails,Flask
 
 **インフラ**
 
@@ -28,11 +39,25 @@
 - Docker,Kubernetes,NewRelic,Skaffold辺りは分かります（とりあえず単語を並べてみた）
 - CircleCI,Terraformなどはこれから勉強します
 - キャッシングとかも勉強中です
+- 過去に1000人規模のサーバーかつ150人が瞬間稼働するインフラを運営したことがあります
+
+[技術スタック]
+- Ubuntu(18.04,20.04,22.04)
+- System Programming
+- Docker,Kuberntes
+- APM (NewRelic)
+- AWS
 
 **その他**
 
 - レガシーコードリファクタリング業（見習い）を名乗っています
 - 週末は関東・東北地方を中心に愛車（4BA-ZC33S）で走り回っています
+- 高専時代はソフトウェア工学を学んでいました
+
+[技術スタック]
+
+- レガシーコード改善のノウハウ
+- ソフトウェアアーキテクト
 
 ## 職務経歴
 
@@ -170,3 +195,9 @@ WebRTCを用いた配信基盤と表示用のWebアプリケーションを作�
 初参加初優勝の作品です。
 
 - [成果概要]([https://topaz.dev/projects/50a804868af6407eb504](https://topaz.dev/projects/c00sudq23akg008ogemg)
+
+### その他
+
+技術書典8に単著で1冊、共著で1冊本を出版しています。
+Comming soon...
+
