@@ -4,7 +4,7 @@
 
 - 氏名：notch_man（本名不詳）
 - ID：notchman8600
-- ポートフォリオ：https://notchman.work
+<!-- - ポートフォリオ：https://notchman.work -->
 - Twitter: @notch_man8600
 
 大学ではソーシャルネットワークにおける集団の興味関心の変化や繋がりの将来予測の研究を行なっています。
