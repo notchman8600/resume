@@ -15,7 +15,8 @@
 
 - 簡単なWebアプリケーションは作成出来る
 - デザインセンスがないのでデザイナーとの協業がベター
-- Reactが大好き
+- Reactの経験が一番あります
+- 未踏のプロダクトではNuxt.jsで開発をしていました
 
 [技術スタック]
 
@@ -38,8 +39,7 @@
 
 - CI/CDは組めます
 - Ubuntuであればサーバー構築出来ます
-- Docker,Kubernetes,NewRelic,Skaffold辺りは分かります（とりあえず単語を並べてみた）
-- CircleCI,Terraformなどはこれから勉強します
+- Docker,Kubernetes,NewRelic,Terraform辺りの経験はあります
 - キャッシングとかも勉強中です。redisは使えます。
 - 過去に1000人規模のサーバーかつ150人が瞬間稼働するインフラを運営したことがあります
 
