@@ -4,8 +4,10 @@
 
 - 氏名：notch_man（本名不詳）
 - ID：notchman8600
-- URL：https://notchman.work
+- ポートフォリオ：https://notchman.work
 - Twitter: @notch_man8600
+
+大学ではソーシャルネットワークにおける集団の興味関心の変化や繋がりの将来予測の研究を行なっています。
 
 ### 主なスキル
 
@@ -29,8 +31,8 @@
 
 [技術スタック]
 
-- Go,PHP,TypeScript,Python,C++,Rust
-- Laravel,Express,Rails,Flask
+- Go,PHP,TypeScript,Python,C++,Kotlin,Rust
+- Laravel,Express,Rails,Flask,SpringBoot
 
 **インフラ**
 
@@ -65,7 +67,7 @@
 
 ## 職務経歴
 
-- [株式会社UZABASE(2022/9～)](#UZABASE株式会社)
+- [株式会社ニューズピックス(2022/9～)](#株式会社ニューズピックス)
 - [Panda株式会社(2022/7～2022/10)](#Panda株式会社)
 - [筑波大学（2022/4～）](#筑波大学)
 - [みらいスタジオ（2022/4～）](#株式会社みらいスタジオ)
@@ -75,11 +77,12 @@
 
 ---
 
-### 株式会社UZABASE
+### 株式会社ニューズピックス
 
 - インターン（2022/9～）
 
 NewsPicksのトピックス機能のUI改善やレガシーコード改善をやっています。
+Java/Kotlinでの開発がメインです。
 
 ---
 
@@ -109,9 +112,14 @@ NewsPicksのトピックス機能のUI改善やレガシーコード改善をや
 - NextCrowd4uの開発
 - 研究室の各種システムの保守・運用
 
+#### 公開エントリ
+
+- 融合知能デザイン研究室　エンジニアブログ | https://crowd4u.github.io/
+- ゼロからチームを立ち上げてプロダクトを作った話（enPiT2021最終レポート） | https://note.com/notch_man/n/n88eacd39200b?from=notice
+
 **enPiT**
 
-- PBL形式でアジャイル開発を学ぶ講義のメンター
+- PBL形式でアジャイル開発を学ぶ講義のメンター業務
 
 ---
 
