@@ -6,6 +6,7 @@
 - ID：notchman8600
 <!-- - ポートフォリオ：https://notchman.work -->
 - Twitter: @notch_man8600
+- Wantedly: https://www.wantedly.com/id/notchman8600
 
 大学ではソーシャルネットワークにおける集団の興味関心の変化や繋がりの将来予測の研究を行なっています。
 
@@ -208,12 +209,13 @@ WebRTCを用いた配信基盤と表示用のWebアプリケーションを作�
 - [公式サイト](https://cup.hackz.team/ichthyo)
 - [成果概要](https://topaz.dev/projects/50a804868af6407eb504）
 
-### ？？？カップ（ハックツ）
+### プレシオカップ（ハックツ）
 
 クリスマスツリーを光らせました。人生で初めてReactを触った作品です。
 初参加初優勝の作品です。
 
-- [成果概要]([https://topaz.dev/projects/50a804868af6407eb504](https://topaz.dev/projects/c00sudq23akg008ogemg)
+- [公式サイト](https://cup.hackz.team/ichthyo)
+- [成果概要](https://topaz.dev/projects/50a804868af6407eb504](https://topaz.dev/projects/c00sudq23akg008ogemg)
 
 ## その他
 
