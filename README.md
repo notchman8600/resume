@@ -195,7 +195,7 @@ Java/Kotlinでの開発がメインです。
 
 影から3Dオブジェクトを作って、それをぶっ壊す遊びのツールを作りました。
 
-- [概要](http://www.procon.gr.jp/wp-content/uploads//2019/11/app20022.pdf）
+- [概要](http://www.procon.gr.jp/wp-content/uploads//2019/11/app20022.pdf)
 
 ## ハッカソン
 
