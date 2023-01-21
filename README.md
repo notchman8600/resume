@@ -4,7 +4,7 @@
 
 - 氏名：notch_man（本名不詳）
 - ID：notchman8600
-<!-- - ポートフォリオ：https://notchman.work -->
+- ポートフォリオ：https://notchman.tech
 - Twitter: @notch_man8600
 - Wantedly: https://www.wantedly.com/id/notchman8600
 
