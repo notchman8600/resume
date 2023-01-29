@@ -116,7 +116,8 @@ Java/Kotlinでの開発がメインです。
 #### 公開エントリ
 
 - 融合知能デザイン研究室　エンジニアブログ | https://crowd4u.github.io/
-- ゼロからチームを立ち上げてプロダクトを作った話（enPiT2021最終レポート） | https://note.com/notch_man/n/n88eacd39200b?from=notice
+- ゼロからチームを立ち上げてプロダクトを作った話（enPiT2021最終レポート） | https://note.com/notch_man/n/n88eacd39200b
+- 2022年度メンター体験記 | https://note.com/notch_man/n/n0deafad54186
 
 **enPiT**
 
