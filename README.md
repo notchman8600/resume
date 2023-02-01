@@ -4,7 +4,12 @@
 
 - 氏名：notch_man（本名不詳）
 - ポートフォリオ：https://notchman.tech
+
+### 各種SNS
+
 - Twitter: @notch_man8600
+- Facebook: https://www.facebook.com/nct15317
+- Instagram: https://www.instagram.com/notch_man8600/
 - Wantedly: https://www.wantedly.com/id/notchman8600
 
 大学ではソーシャルネットワークにおける集団の興味関心の変化や繋がりの将来予測の研究を行なっています。
