@@ -115,8 +115,8 @@ Java/Kotlinでの開発がメインです。
 
 **[融合知能デザイン研究室](https://fusioncomplab.org/)**
 
-- Crowd4uの保守・開発
-- NextCrowd4uの開発
+- Crowd4Uの保守・開発
+- NextCrowd4Uの開発
 - 研究室の各種システムの保守・運用
 
 #### 公開エントリ
