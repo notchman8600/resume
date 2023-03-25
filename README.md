@@ -6,6 +6,10 @@
 - 所属：筑波大学知識情報・図書館学類4年（融合知能デザイン研究室）
 - ポートフォリオ：https://notchman.tech
 
+### 保有資格
+
+- 認定スクラムマスター(CSM） | https://bcert.me/slizkppvs
+
 ### 各種SNS
 
 - Twitter: @notch_man8600
