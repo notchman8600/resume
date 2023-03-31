@@ -76,6 +76,19 @@ DEIM2023では「マルチエージェント強化学習に基づくソーシャ
 - 古典画像処理
 - ML（RL,IRL)
 
+## 登壇実績
+
+### アジャイルPBL祭り2023
+
+大学におけるPBL（Project Based Learning）型教育でのアジャイル開発の実践事例が増えてきてます。
+各大学のこれまでの成果とその高い教育効果を紹介し、学生社会人を問わず、アジャイルプロジェクト実践者の相互学習と交流を目的としてAgile PBL祭りが開催されています。
+こちらのイベントでアジャイルに固執せずに開発で向き合う物は何か？というものを問題定義する内容で登壇をしました。
+
+プロポーザル：https://confengine.com/conferences/agile-pbl-2023/proposal/18201
+公式HP：
+- https://agilepbl.org/
+- https://confengine.com/conferences/agile-pbl-2023
+
 ## 職務経歴
 
 - [株式会社ニューズピックス(2022/9～)](#株式会社ニューズピックス)
@@ -165,6 +178,10 @@ Java/Kotlinでの開発がメインです。
 - PRTIMES社のプロダクト開発
 - レガシー改善
 - PHP,Laravelとの戦い方を学ぶ
+
+#### 公開エントリ
+
+- インターン生がSmartyのバージョンアップに取り組んだ話 | https://developers.prtimes.jp/2023/03/31/intern-upgrade-smarty/
 
 ---
 
