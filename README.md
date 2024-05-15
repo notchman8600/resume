@@ -1,26 +1,23 @@
-# notch_man君の職務経歴書
+# notch_man君の職務経歴書 (My resume)
 
 ## 個人データ
 
-- 氏名：notch_man（本名不詳）
-- 所属：筑波大学知識情報・図書館学類4年（融合知能デザイン研究室）
-- ポートフォリオ：https://notchman.tech
+- 名前（name)：notch_man
+- 所属(AFF)： 筑波大学情報学学位プログラム1年 (first year grad student at the University of Tsukuba)
+- ポートフォリオ(my site)： https://notchman.tech
 
-### 保有資格
+### 保有資格 (Certificates)
 
 - 認定スクラムマスター(CSM） | https://bcert.me/slizkppvs
 
-### 各種SNS
+### 各種SNS (Medias)
 
 - Twitter: @notch_man8600
 - Facebook: https://www.facebook.com/nct15317
 - Instagram: https://www.instagram.com/notch_man8600/
 - Wantedly: https://www.wantedly.com/id/notchman8600
 
-大学ではソーシャルネットワークにおける集団の興味関心の変化や繋がりの将来予測の研究を行なっています。
-DEIM2023では「マルチエージェント強化学習に基づくソーシャルネットワークの将来予測手法」というタイトルで論文を投稿し、学生プレゼンテーション賞を頂きました。
-
-### 主なスキル
+### 主なスキル (Skills)
 
 **フロントエンド**
 
