@@ -1,8 +1,10 @@
-# notch_man君の職務経歴書 (My resume)
+# notch_man君の職務経歴書 (My Resume)
 
 notch_manの職務経歴書となります。
 
 # 個人データ
+
+基本的な個人情報です。
 
 - 名前（name)：notch_man
 - 所属(AFF)： 筑波大学大学院 情報学学位プログラム1年 (first year grad student at the University of Tsukuba)
@@ -87,6 +89,8 @@ Twitter: https://x.com/notch_man8600
 
 # 登壇実績
 
+これまでの登壇実績について説明いたします。詳細はプロポーザルリンクからご覧ください。
+
 ## アジャイルPBL祭り2023
 
 大学におけるPBL（Project Based Learning）型教育でのアジャイル開発の実践事例が増えてきてます。
@@ -115,6 +119,10 @@ Twitter: https://x.com/notch_man8600
 
 # 研究業績
 
+これまでの研究業績を紹介します。
+私の研究分野はソーシャルネットワーク分析や計算社会学、強化学習などになります。
+これまで国際学会で1本、国内学会で2本発表を行ないました。
+
 ## 国際学会
 
 ### WWW'24 (full paper)
@@ -142,6 +150,7 @@ https://confit.atlas.jp/guide/event-img/deim2024/T1-A-5-01/public/pdf
 
 # 職務経歴
 
+主にインターンシップと非常勤の大学職員時代の業績を紹介いたします。
 この他にもいくつかの現場で業務委託で仕事を行なっています。
 
 - [株式会社ユーザーベース(2022/9～)](#株式会社ユーザーベース)
