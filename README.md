@@ -6,7 +6,7 @@ notch_manの職務経歴書となります。
 
 基本的な個人情報です。
 
-- 名前（name)：notch_man
+- 名前（name）：notch_man
 - 所属(AFF)： 筑波大学大学院 情報学学位プログラム1年 (first year grad student at the University of Tsukuba)
 - ポートフォリオ(my site)： https://notchman.tech
 - Email: miyake.kentaro0815@mokkuriko.com
@@ -37,21 +37,22 @@ Twitter: https://x.com/notch_man8600
 
 **フロントエンド**
 
-- 簡単なWebアプリケーションは作成出来る
-- デザインセンスがないのでデザイナーとの協業がベター
+- 幅広く様々なフレームワークに関わってきました
+- デザインセンスがないのでデザイナーとの協業が必要
 - Reactの経験が一番あります
 
-[技術スタック]
+[経験のある技術スタック]
 
 - TypeScript,JavaScript
 - React,Next.js,Nuxt.js
-- Bootstrap
+- tailwindcss, Bootstrap, chakra-ui
 
 **バックエンド**
 
-- レガシー改善からモダンな設計まで一通りは学びました（作れるとは言っていない）
+- レガシーコードからサーバーレスのモダン（？）な設計まで幅広く経験しています
 - Goが大好きですが、Kotlinも触れます
 - Pythonは嫌いですが仕方なく使っています
+- WAFの経験で一番長いのはRailsです
 
 [技術スタック]
 
@@ -61,7 +62,8 @@ Twitter: https://x.com/notch_man8600
 **インフラ**
 
 - CI/CDは組めます
-- Ubuntuであればサーバー構築出来ます
+- Ubuntu/Amazon LinuxなどのRedHat系OSであればサーバー構築出来ます
+- AWSでサーバーレス構成でCI/CDパイプラインなどを整備してサービスを維持するくらいの基礎は身につけています
 - docker,k8s,newrelic,terraform,aws-cdkの経験はあります
 - 過去に1000人規模のサーバーかつ150人が瞬間稼働するインフラを運営したことがあります
 
@@ -129,7 +131,7 @@ Twitter: https://x.com/notch_man8600
 
 タイトル：NETEVOLVE: Social Network Forecasting using Multi-Agent Reinforcement Learning with Interpretable Features
 
-ACM The WebConferenceにフルペーパー論文の発表を行ないました。今日か学習を用いたソーシャルネットワークの将来予測手法について発表しました。
+ACM The WebConferenceにフルペーパー論文の発表を行ないました。強化学習を用いたソーシャルネットワークの将来予測手法について発表しました。
 https://dl.acm.org/doi/pdf/10.1145/3589334.3647982
 
 ## 国内学会
@@ -153,13 +155,31 @@ https://confit.atlas.jp/guide/event-img/deim2024/T1-A-5-01/public/pdf
 主にインターンシップと非常勤の大学職員時代の業績を紹介いたします。
 この他にもいくつかの現場で業務委託で仕事を行なっています。
 
-- [株式会社ユーザーベース(2022/9～)](#株式会社ユーザーベース)
+- [Digital Experts株式会社(2024/9～)](#digital-exprets株式会社)
+- [丸紅株式会社(2024/6～2024/8)](#丸紅株式会社)
+- [株式会社ユーザーベース(2022/9～2025/3)](#株式会社ユーザーベース)
 - [Panda株式会社(2022/7～2022/10)](#Panda株式会社)
 - [筑波大学（2022/4～）](#筑波大学)
 - [みらいスタジオ（2022/4～）](#株式会社みらいスタジオ)
 - [株式会社オルターブース(2022/5～2022/8）](#株式会社オルターブース)
 - [株式会社PRTIMES（2021/10～）](#株式会社PR　TIMES)
 - [RPAテクノロジーズ株式会社（2021/5～2022/5）](#RPAテクノロジーズ株式会社)
+
+---
+
+## Digital Exprets株式会社
+
+丸紅からの契約先の切り替えに伴い、DEでインターン（業務委託）として参画しています。
+
+丸紅時代から引き続き、社内チャットボット開発や会議効率化・議事録作成支援ツールなどの開発を行っています。
+
+---
+
+## 丸紅株式会社
+
+インターン（業務委託）として参画しています。
+
+社内チャットボット開発や会議効率化・議事録作成支援ツールなどの開発を行っています。
 
 ---
 
@@ -189,6 +209,8 @@ Java/Kotlinでの開発がメインです。
 
 - 短期雇用（2022/4～）
 - 非常勤職員（2022/9～2024/3）
+- TA（2024/4～
+- RA（2025/6～
 
 ### 業務内容
 
@@ -204,9 +226,12 @@ Java/Kotlinでの開発がメインです。
 - ゼロからチームを立ち上げてプロダクトを作った話（enPiT2021最終レポート） | https://note.com/notch_man/n/n88eacd39200b
 - 2022年度メンター体験記 | https://note.com/notch_man/n/n0deafad54186
 
+
 **enPiT**
 
 - PBL形式でアジャイル開発を学ぶ講義のメンター業務
+
+その他、大学内の案件を業務委託で請け負ってシステム開発・保守運用などを行っています。
 
 ---
 
