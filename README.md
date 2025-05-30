@@ -8,8 +8,8 @@ notch_manの職務経歴書となります。
 
 - 名前（name）：notch_man
 - 所属(AFF)： 筑波大学大学院 情報学学位プログラム1年 (first year grad student at the University of Tsukuba)
-- ポートフォリオ(my site)： https://notchman.tech
-- Email: miyake.kentaro0815@mokkuriko.com
+- ポートフォリオ(my site)： <https://notchman.tech>
+- Email: <miyake.kentaro0815@mokkuriko.com>
 
 # 私について（About me）
 
@@ -19,19 +19,19 @@ WFやアジャイル、スクラムによる開発、その他色々な事情を
 
 私へのお仕事のご相談やその他カジュアル面談等は以下のメールアドレスまたはSNSアカウントへご連絡をお願いいたします。
 
-Email: miyake.kentaro0815@mokkuriko.com
-Twitter: https://x.com/notch_man8600
+Email: <miyake.kentaro0815@mokkuriko.com>
+Twitter: <https://x.com/notch_man8600>
 
 ## 保有資格 (Certificates)
 
-- 認定スクラムマスター(CSM） | https://bcert.me/slizkppvs
+- 認定スクラムマスター(CSM） | <https://bcert.me/slizkppvs>
 
 ## 各種SNS (Medias)
 
 - Twitter: @notch_man8600
-- Facebook: https://www.facebook.com/nct15317
-- Instagram: https://www.instagram.com/notch_man8600/
-- Wantedly: https://www.wantedly.com/id/notchman8600
+- Facebook: <https://www.facebook.com/nct15317>
+- Instagram: <https://www.instagram.com/notch_man8600/>
+- Wantedly: <https://www.wantedly.com/id/notchman8600>
 
 ## 主なスキル (Skills)
 
@@ -68,6 +68,7 @@ Twitter: https://x.com/notch_man8600
 - 過去に1000人規模のサーバーかつ150人が瞬間稼働するインフラを運営したことがあります
 
 [技術スタック]
+
 - Ubuntu(18.04,20.04,22.04)
 - System Programming
 - Docker,Kuberntes
@@ -99,25 +100,25 @@ Twitter: https://x.com/notch_man8600
 各大学のこれまでの成果とその高い教育効果を紹介し、学生社会人を問わず、アジャイルプロジェクト実践者の相互学習と交流を目的としてAgile PBL祭りが開催されています。
 こちらのイベントでアジャイルに固執せずに開発で向き合う物は何か？というものを問題定義する内容で登壇をしました。
 
-プロポーザル：https://confengine.com/conferences/agile-pbl-2023/proposal/18201
+プロポーザル：<https://confengine.com/conferences/agile-pbl-2023/proposal/18201>
 公式HP：
-- https://agilepbl.org/
-- https://confengine.com/conferences/agile-pbl-2023
+
+- <https://agilepbl.org/>
+- <https://confengine.com/conferences/agile-pbl-2023>
 
 ## Scrum Fest Sendai 2023
 
 これまで異なる環境でソフトウェア開発について学んだ筑波大と東京理科大との合同チームが「1つのサービスの起案ができる」チームになるまでの軌跡とそこから得られた知見について話しました。
 教科書をなぞれば上手くワークした環境から、自分たちの足で立ったときに直面した「チーム間のコミュニケーション」「お互いの前提知識・認識」の違いを克服するために試みたことについてお話しました。
 
-プロポーザル：https://confengine.com/conferences/scrum-fest-sendai-2023/proposal/18648
-
+プロポーザル：<https://confengine.com/conferences/scrum-fest-sendai-2023/proposal/18648>
 
 ## アジャイルPBL祭り 2024
 
 強い想いを持って数年間プロダクト開発に関わった人が、その意志を次に託す時の心構えのお話をしました。
 自身がこれまで約3年間関わってきたプロダクトから手を引くことを考えていた時に参加したRSGT2025での知見も踏まえながら、未来にプロダクトを託すためのフレームワークを提案しました。
 
-プロポーザル：https://confengine.com/conferences/agile-pbl-2024/proposal/19493
+プロポーザル：<https://confengine.com/conferences/agile-pbl-2024/proposal/19493>
 
 # 研究業績
 
@@ -132,7 +133,7 @@ Twitter: https://x.com/notch_man8600
 タイトル：NETEVOLVE: Social Network Forecasting using Multi-Agent Reinforcement Learning with Interpretable Features
 
 ACM The WebConferenceにフルペーパー論文の発表を行ないました。強化学習を用いたソーシャルネットワークの将来予測手法について発表しました。
-https://dl.acm.org/doi/pdf/10.1145/3589334.3647982
+<https://dl.acm.org/doi/pdf/10.1145/3589334.3647982>
 
 ## 国内学会
 
@@ -142,13 +143,13 @@ https://dl.acm.org/doi/pdf/10.1145/3589334.3647982
 
 WWWW'24に投稿したベースとなる日本語論文となります。学部時代の卒業研究の内容がベースとなっています。
 **優秀論文賞**及び**優秀インタラクティブ賞**のダブル受賞となりました。
-https://confit.atlas.jp/guide/event-img/deim2024/T1-A-5-01/public/pdf
+<https://confit.atlas.jp/guide/event-img/deim2024/T1-A-5-01/public/pdf>
 
 ## 出版物
 
 論文以外の出版物（webも含む）を紹介します。
 
-- 日本データベース学会 Newsletter 2024年8月号 (Vol.17, No. 4) https://dbsj.org/newsletter-vol-17-no-4/
+- 日本データベース学会 Newsletter 2024年8月号 (Vol.17, No. 4) <https://dbsj.org/newsletter-vol-17-no-4/>
 
 # 職務経歴
 
@@ -164,6 +165,7 @@ https://confit.atlas.jp/guide/event-img/deim2024/T1-A-5-01/public/pdf
 - [株式会社オルターブース(2022/5～2022/8）](#株式会社オルターブース)
 - [株式会社PRTIMES（2021/10～）](#株式会社PR　TIMES)
 - [RPAテクノロジーズ株式会社（2021/5～2022/5）](#RPAテクノロジーズ株式会社)
+- [その他の個人事業・業務委託(2022/4～)](#個人事業)
 
 ---
 
@@ -222,10 +224,9 @@ Java/Kotlinでの開発がメインです。
 
 ### 公開エントリ
 
-- 融合知能デザイン研究室　エンジニアブログ | https://crowd4u.github.io/
-- ゼロからチームを立ち上げてプロダクトを作った話（enPiT2021最終レポート） | https://note.com/notch_man/n/n88eacd39200b
-- 2022年度メンター体験記 | https://note.com/notch_man/n/n0deafad54186
-
+- 融合知能デザイン研究室　エンジニアブログ | <https://crowd4u.github.io/>
+- ゼロからチームを立ち上げてプロダクトを作った話（enPiT2021最終レポート） | <https://note.com/notch_man/n/n88eacd39200b>
+- 2022年度メンター体験記 | <https://note.com/notch_man/n/n0deafad54186>
 
 **enPiT**
 
@@ -268,7 +269,7 @@ Java/Kotlinでの開発がメインです。
 
 ### 公開エントリ
 
-- インターン生がSmartyのバージョンアップに取り組んだ話 | https://developers.prtimes.jp/2023/03/31/intern-upgrade-smarty/
+- インターン生がSmartyのバージョンアップに取り組んだ話 | <https://developers.prtimes.jp/2023/03/31/intern-upgrade-smarty/>
 
 ---
 
@@ -284,7 +285,30 @@ Java/Kotlinでの開発がメインです。
 
 ### 公開エントリ
 
-- 「自分で思考する回数が圧倒的に多い」インターンだからこその経験 | https://rpa-holdings.com/recruit/journal/internship_21001/
+- 「自分で思考する回数が圧倒的に多い」インターンだからこその経験 | <https://rpa-holdings.com/recruit/journal/internship_21001/>
+
+## 個人事業
+
+個人事業主（フリーランス）として様々な現場にスポットで入ったり長期でお仕事をしています。
+会社名は出せませんが主な事例を紹介します。
+
+### 某SNSマーケティング系企業
+
+ソーシャルメディア系企業が運営するストック素材の販売サービスのWEB・モバイルアプリの開発を行っていました。さらに、Railsのレガシー改善を行いました。また、認定スクラムマスターとして開発チームでスクラムを導入するなど開発体制の強化にも関わりました。
+
+主な業務内容
+
+- WEBサービスの開発・保守
+- ReactNativeによるアプリ開発
+- スクラムの導入支援
+- Railsバージョンアッププロジェクトの推進・実行
+- インフラ改善
+
+### 某人事系サービスの開発
+
+人事系サービスの新機能開発・保守などを担当しました。メインはRailsでフロントからバックエンドまで幅広く対応しました。
+
+その他、フロントエンドからバックエンド、インフラ構築まで幅広く担当しました。
 
 # ソフトウェア開発
 
