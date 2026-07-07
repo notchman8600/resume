@@ -7,6 +7,13 @@
 - ポートフォリオ：<https://notchman.tech>
 - Email：<miyake.kentaro0815@mokkuriko.com>
 
+### 各種SNS (Medias)
+
+- Twitter: @notch_man8600
+- Facebook: <https://www.facebook.com/nct15317>
+- Instagram: <https://www.instagram.com/notch_man8600/>
+- Wantedly: <https://www.wantedly.com/id/notchman8600>
+
 ## 全体サマリ
 
 某IT企業で正社員として勤務しながら、大学院で研究活動を行い、あわせて複数の現場でプロダクト開発に携わっています。
