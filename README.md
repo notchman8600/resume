@@ -299,7 +299,7 @@ WWW'24に投稿した研究のベースとなる日本語論文です。学部�
 
 会議の効率化支援ツールを開発しました。
 
-- 成果概要：<https://www.ipa.go.jp/files/000096554.pdf>
+- 成果概要：<https://www.ipa.go.jp/jinzai/mitou/it/2021/qv6pgp0000002ejz-att/000096554.pdf>
 
 #### SecHack365 表現駆動コース（2021年度）
 
