@@ -4,7 +4,7 @@
 
 - 名前：三宅 健太郎
 - 所属：某大手IT企業 / 筑波大学大学院 情報学学位プログラム 博士後期課程
-- ポートフォリオ：<https://notchman.tech>
+- ポートフォリオ：<https://www.notchman.tech>
 - Email：<miyake.kentaro0815@mokkuriko.com>
 
 ### 各種SNS (Medias)
